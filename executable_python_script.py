@@ -1,7 +1,7 @@
 """
 Fake News Model Comparison - Automated Empirical Evaluation Pipeline
-Author: Shahzar Jameel (Department of Computer Science, Alhamd Islamic University)
-Repository: https://github.com/shahzarjameel/fake-news-model-comparison
+Author: Shahzar Jameel (Department of Computer Science, Alhamd Islamic University
+Repository: https://github.com/shahzarjamil789/Emperical-evaluation-Model-comparison-regarding-misinformation
 License: MIT
 """
 
